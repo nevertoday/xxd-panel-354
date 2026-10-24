@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 354｜Chunky Ink Doodle: keeps the photo and redraws its subject and the few props that say what it is doing as round, stubby, front-facing naive shapes — each wrapped in a thick, slightly wobbly black ink line and filled with one flat opaque colour that sometimes misses the line, faces of two dot eyes and a tiny nose or short mouth, everything standing on one bold black ground line drawn across the page over a wide cream field, muted photo colours with one small bright accent, and one short line hand-lettered in the same chunky ink beside the subject like a comic-panel aside. No perspective, shading or highlights; scenes are reduced to one element. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-354 or asks for a chunky ink-line doodle, naive picture-book drawing or bold-outline cartoon from a photo.",
+  "short_description": "粗墨涂鸦：把照片主体画成粗黑墨线圈住的圆胖简笔形，站在一条粗地面线上",
+  "zh-CN": {
+    "name": "粗墨涂鸦",
+    "tagline": "把照片主体画成粗墨线圈住的圆胖简笔形，站在一条粗黑地面线上。",
+    "look": "主体和最能说明它在做什么的一两样小道具被画成正面的圆胖简笔形，外形圆润略歪、比例短胖，人和动物头大身小，脸上只有两颗小黑点眼睛和一个小鼻头或一笔短嘴，毛发和枝叶只把外轮廓画成一串小圆鼓包。每样东西都被一圈粗而微微抖动、线头圆钝的黑色墨线圈住，线里只平涂一块不透明的颜色，偶尔没对准线，没有阴影和高光。它们都站在一条从左画到右的粗黑地面线上，主体略偏一侧，上方是大片奶油色空底。颜色取照片里有存在感的颜色并略降饱和，只有一处小亮色跳出来；主体旁用同样粗的墨线手写一句圆胖小话，像漫画格里冒出来的。",
+    "traits": [
+      "粗而微抖的黑色墨线",
+      "平涂色块",
+      "圆胖稚拙正面简笔形",
+      "横贯画面的粗黑地面线",
+      "奶油色空底",
+      "圆胖手写小话"
+    ],
+    "good": [
+      "有一个动作或日常小事的照片：遛狗的人、揉面的手、提着一袋菜",
+      "憨憨的动物或物件：窗边的猫、一只呆呆的鹅、一根晾衣绳",
+      "构图差、背景乱或主体小的照片，会被转成正面、放上地面线"
+    ],
+    "poor": [
+      "需要透视、光影、写实比例或细致五官的照片",
+      "想画出完整街景、风景或堆满道具的需求，这里只留少量东西",
+      "想要细而均匀的矢量线或光滑吉祥物卡通的需求"
+    ]
+  },
+  "en": {
+    "name": "Chunky Ink Doodle",
+    "tagline": "Draws the subject of your photo as stubby shapes in thick ink outlines, standing on one bold ground line.",
+    "look": "The subject and one or two props that say what it is doing become round, stubby, front-facing shapes, a little lopsided, with people and animals big-headed and small-bodied, faces of just two black dot eyes and a tiny nose or short mouth, and fur or foliage drawn only as a run of small round bumps along the outline. Every element is wrapped in a thick, slightly wobbly black ink line with blunt ends and filled with one flat opaque colour that sometimes misses the line, with no shadows or highlights. They all stand on one bold black ground line drawn from left to right, the subject a little to one side, under a wide cream field. Colours are the photo's most present hues, slightly muted, with one small bright accent, and beside the subject one chubby line is hand-lettered in the same thick ink, like an aside popping up in a comic panel.",
+    "traits": [
+      "Thick, wobbly black ink line",
+      "Flat colour fills",
+      "Stubby naive front-on shapes",
+      "Bold ground line across the page",
+      "Cream field",
+      "Chunky handwritten aside"
+    ],
+    "good": [
+      "Photos of an action or small daily moment: someone walking a dog, hands kneading dough, carrying a bag of groceries",
+      "Goofy animals or objects: a cat by a window, a dazed-looking goose, a washing line",
+      "Photos with weak composition, messy backgrounds or a small subject, which get turned front-on and set on the ground line"
+    ],
+    "poor": [
+      "Photos that need perspective, lighting, realistic proportions or fine facial features",
+      "Requests for a full street, landscape or a pile of props, since only a few things are kept",
+      "Requests for thin, even vector lines or a glossy mascot cartoon"
+    ]
+  },
+  "ja": {
+    "name": "太墨の落書き",
+    "tagline": "写真の主役を太い墨線で囲んだずんぐりした簡単な形にし、一本の太い地面線の上に立たせます。",
+    "look": "主役と、何をしているかを伝える小道具一、二点を、正面向きのずんぐり丸い簡単な形に描きます。形は丸く少しゆがみ、比率は短く太く、人や動物は頭が大きく体は小さく、顔は小さな黒い点の目二つと小さな鼻か短い口だけ。毛並みや枝葉は外側の輪郭を小さな丸いふくらみの連なりにするだけです。どれも太くてわずかに震える、線の端が丸い黒い墨線で囲まれ、中は不透明な一色で平塗りされ、ときどき線からずれます。影もハイライトもありません。すべてが左から右へ引いた一本の太い黒い地面線の上に立ち、主役は少し片側に寄り、上には広いクリーム色の余白があります。色は写真で存在感のある色を少し抑え、小さな明るい色が一か所だけ跳ねます。主役のそばには同じ太い墨線で丸っこい手書きのひと言が、漫画のコマにぽろっと出たせりふのように入ります。",
+    "traits": [
+      "太くわずかに震える黒い墨線",
+      "平塗りの色面",
+      "ずんぐりした正面の素朴な形",
+      "画面を横切る太い地面線",
+      "クリーム色の余白",
+      "丸っこい手書きのひと言"
+    ],
+    "good": [
+      "動作や日常のちょっとした出来事がある写真：犬の散歩、パン生地をこねる手、買い物袋を提げる人",
+      "とぼけた動物や物：窓辺の猫、ぼんやりしたガチョウ、物干しロープ",
+      "構図が平凡、背景が散らかっている、主役が小さい写真（正面向きにして地面線に立たせます）"
+    ],
+    "poor": [
+      "遠近法、光と影、写実的な比率、細かな顔立ちが必要な写真",
+      "通り全体や風景全体、たくさんの小道具を描きたい場合（少しの物だけを残します）",
+      "細く均一なベクターの線や、つるっとしたマスコットキャラクターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "굵은 먹선 낙서",
+    "tagline": "사진 속 주인공을 굵은 먹선으로 두른 통통한 간단한 형태로 그려 굵은 땅선 하나 위에 세웁니다.",
+    "look": "주인공과 무엇을 하고 있는지 알려 주는 소품 한두 개를 정면을 본 통통하고 둥근 간단한 형태로 그립니다. 형태는 둥글고 살짝 비뚤며 비율은 짧고 통통하고, 사람과 동물은 머리가 크고 몸이 작으며, 얼굴은 작은 검은 점 눈 두 개와 작은 코나 짧은 입 한 획뿐입니다. 털과 나뭇잎은 바깥 윤곽만 작고 둥근 혹이 이어진 모양으로 그립니다. 모든 것이 굵고 살짝 떨리는, 끝이 뭉툭한 검은 먹선으로 둘러지고, 안은 불투명한 한 색으로 평칠되어 가끔 선에서 어긋납니다. 그림자도 하이라이트도 없습니다. 모두 왼쪽에서 오른쪽으로 그은 굵은 검은 땅선 하나 위에 서고, 주인공은 한쪽으로 조금 치우치며, 위는 넓은 크림색 여백입니다. 색은 사진에서 존재감 있는 색을 조금 누그러뜨리고 작은 밝은 색 하나만 튀게 둡니다. 주인공 옆에는 같은 굵은 먹선으로 쓴 통통한 손글씨 한마디가 만화 칸에 툭 튀어나온 말처럼 들어갑니다.",
+    "traits": [
+      "굵고 살짝 떨리는 검은 먹선",
+      "평칠 색면",
+      "통통하고 소박한 정면 형태",
+      "화면을 가로지르는 굵은 땅선",
+      "크림색 여백",
+      "통통한 손글씨 한마디"
+    ],
+    "good": [
+      "동작이나 일상의 작은 일이 담긴 사진: 강아지 산책, 반죽하는 손, 장바구니를 든 사람",
+      "어수룩한 동물이나 사물: 창가 고양이, 멍한 거위, 빨랫줄",
+      "구도가 평범하거나 배경이 어수선하거나 주인공이 작은 사진(정면으로 돌려 땅선 위에 세웁니다)"
+    ],
+    "poor": [
+      "원근, 명암, 사실적인 비율, 섬세한 이목구비가 필요한 사진",
+      "거리 전체나 풍경 전체, 소품을 잔뜩 그리고 싶은 경우(몇 가지만 남깁니다)",
+      "가늘고 균일한 벡터 선이나 매끈한 마스코트 캐릭터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "خربشة الحبر العريض",
+    "tagline": "يرسم العنصر الرئيسي في صورتك أشكالاً ممتلئة قصيرة بحدود حبر عريضة، تقف على خط أرض أسود عريض واحد.",
+    "look": "يتحول العنصر وأداة أو اثنتان توضّحان ما يفعله إلى أشكال مستديرة قصيرة ممتلئة تُرى من الأمام، مائلة قليلاً، والناس والحيوانات برؤوس كبيرة وأجسام صغيرة، ووجوههم نقطتان سوداوان للعينين وأنف صغير أو فم قصير، ويُرسم الفرو أو أوراق الشجر سلسلةً من نتوءات صغيرة مستديرة على الحدود الخارجية فقط. يحيط بكل عنصر خط حبر أسود عريض يرتجف قليلاً وأطرافه مدوّرة، ويُملأ بلون واحد مسطّح غير شفاف يخطئ الخط أحياناً، بلا ظلال ولا إضاءات. تقف كلها على خط أرض أسود عريض واحد ممتد من اليسار إلى اليمين، والعنصر مائل قليلاً إلى جانب، وفوقها مساحة واسعة بلون الكريم. الألوان هي أبرز ألوان الصورة بعد تخفيفها قليلاً، مع لمسة مشرقة صغيرة واحدة، وبجانب العنصر جملة قصيرة ممتلئة الحروف بخط اليد بالحبر العريض نفسه، كتعليق يقفز في مربّع قصة مصوّرة.",
+    "traits": [
+      "خط حبر أسود عريض مرتجف",
+      "ألوان مسطّحة",
+      "أشكال أمامية ممتلئة عفوية",
+      "خط أرض عريض يعبر الصفحة",
+      "مساحة بلون الكريم",
+      "تعليق ممتلئ بخط اليد"
+    ],
+    "good": [
+      "صور فيها حركة أو لحظة يومية صغيرة: شخص يمشّي كلبه، يدان تعجنان، شخص يحمل كيس مشتريات",
+      "حيوانات أو أشياء فيها طرافة: قطة عند نافذة، إوزّة شاردة، حبل غسيل",
+      "صور ضعيفة التكوين أو بخلفية فوضوية أو بعنصر صغير، تُدار إلى الأمام وتوضع على خط الأرض"
+    ],
+    "poor": [
+      "صور تحتاج إلى منظور أو ضوء وظلّ أو نِسَب واقعية أو ملامح وجه دقيقة",
+      "طلب شارع كامل أو منظر طبيعي كامل أو كومة من الأدوات، إذ لا يُحتفظ إلا بأشياء قليلة",
+      "طلب خطوط متجهية رفيعة متساوية أو شخصية تميمة كرتونية لامعة"
+    ]
+  }
+}
